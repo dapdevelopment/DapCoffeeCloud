@@ -1,6 +1,6 @@
 # Coffee Cloud App
 
-Coffee Cloud App for Anacafe
+DAP Coffee Cloud App
 
 ## Getting Started
 
